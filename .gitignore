@@ -1,0 +1,6 @@
+cheatsheet-tui
+cheatsheet-tui-debug
+*.o
+pkg/
+src/
+*.pkg.tar.zst
